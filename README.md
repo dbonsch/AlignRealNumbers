@@ -1,5 +1,5 @@
 # AlignRealNumbers
-Experiment how to align real number without having a gap 
+Experiment how to align real number without having a gap.
 
 It's not a perfect allignment of all real numbers.
 Endless sequences have no defined position.
